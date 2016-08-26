@@ -1,0 +1,6 @@
+node_modules
+dist
+.DS_Store
+package
+object-from-string*.tgz
+npm-debug.log
